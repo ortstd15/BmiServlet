@@ -1,0 +1,7 @@
+
+Nsquid:S1989"+Add a "try/catch" block for "sendRedirect".(Šûßıÿÿÿÿ8¶§ìÜà,
+squid:S1186#"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ïû©Öûÿÿÿÿ
+Vsquid:S1161#":Add the "@Override" annotation above this method signature(Ïû©Öûÿÿÿÿ
+Qsquid:S1161":Add the "@Override" annotation above this method signature(‹¨¯¿
+\squid:S1854">Remove this useless assignment to local variable "dispatcher".(»×ÀÎ8¡˜âÜà,
+Msquid:S1481"/Remove this unused "dispatcher" local variable.(»×ÀÎ8¡˜âÜà,
